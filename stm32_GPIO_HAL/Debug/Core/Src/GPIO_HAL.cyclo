@@ -1,0 +1,6 @@
+../Core/Src/GPIO_HAL.c:11:6:LED_init	1
+../Core/Src/GPIO_HAL.c:26:6:LED_init_2	1
+../Core/Src/GPIO_HAL.c:41:6:LED_Blink_Fast	1
+../Core/Src/GPIO_HAL.c:52:6:LED_Blink_Fast_2	1
+../Core/Src/GPIO_HAL.c:64:6:BUTTON_init_PC13	1
+../Core/Src/GPIO_HAL.c:77:9:BUTTON_read_PC13	2
